@@ -25,8 +25,10 @@ requirements:
     - {{ posix }}zip               # [win]
   host:
     - r-base
+    - r-assertthat
   run:
     - r-base
+    - r-assertthat
 
 test:
   commands:
