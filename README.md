@@ -1,11 +1,11 @@
-About r-pkgcond
-===============
+About r-pkgcond-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pkgcond-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/RDocTaskForce/pkgcond
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pkgcond-feedstock/blob/main/LICENSE.txt)
 
 Summary: This provides utilities for creating classed error and warning conditions based on where the error originated.
 
